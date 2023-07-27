@@ -1,9 +1,12 @@
-/*const getData = async (id) => {
-  fetch('./assets/js/questions.json')
-  .then(response => response.json())
-  .then(questions => { return questions})
-}*/
+/*Definiendo variables necesarias
+  userScore variable donde almaceno las preguntas acertadas
+  questionArray array donde almaceno las preguntas que vayan saliendo
+*/
+let userScore = 0;
+let questionsArray = [];
 
+
+/*Functions*/
 const getData = async () => {
   try {
     const response = await fetch('./assets/js/questions.json');
@@ -18,23 +21,28 @@ const getData = async () => {
   }
 };
 
+const getId = () =>{
+  let id = Math.floor(Math.random()*30+1);
+  return id
+}
 const checkAnswer = (answer, correct) => {
   let solution = false;
   answer==correct ? solution = true : solution = false;
   return solution
 }
 
-let userScore = 0;
+
 
 const showInfo = (result,id) => {
+  questionsArray.push(id);
+  console.log(questionsArray);
   let question = document.getElementById("question");
   let answers = document.getElementById("answers");
-  let idQ = document.getElementById("n-question");
+  let nQuestion = document.getElementById("n-question");
   
   let selected = false;
   let userAnswer;
 
-  idQ.innerText = result[id].idquestion;
   question.innerHTML = result[id].question;
   answers.innerHTML = `<ul>
       <div>
@@ -64,21 +72,23 @@ const showInfo = (result,id) => {
   }
 
   let nextButton = document.getElementById('next');
-  if(parseInt(idQ.innerText)<=10){
+  if(parseInt(nQuestion.innerText)<=15){
     nextButton.addEventListener('click', () => {
       console.log(userAnswer)
       console.log(result[id].correct)
       if(selected){
         if(checkAnswer(userAnswer,result[id].correct)){
-
           userScore++
           score.innerText = userScore;
         } else{
           score.innerText = userScore;
         }
-        if(parseInt(idQ.innerText)<10){
-          // console.log(id)
-          id++
+        if(parseInt(nQuestion.innerText)<15){
+          nQuestion.innerText = parseInt(nQuestion.innerText)+1;
+          // Obtener una nueva pregunta pero que no este incluida en el array de questiones
+          do{
+            id = getId();
+          } while(questionsArray.includes(id))
           showInfo(result,id);
         }else{
           let thank = document.getElementById('quiz');
@@ -90,22 +100,6 @@ const showInfo = (result,id) => {
       }
     })
   } 
-
-/*
-              nextButton.addEventListener('click', () => {
-                  if(selected){
-                      if(parseInt(idQ.innerText)<10){
-                          getData(parseInt(idQ.innerText)+1);
-                      } else{
-                          let thank = document.getElementById('quiz');
-                          thank.innerHTML = "Thank you for participate!"
-                      }
-                  }
-                  else{
-                      alert('please choose a answer')
-                  }
-              })*/
-              
 }           
 
 
@@ -125,7 +119,7 @@ window.addEventListener('DOMContentLoaded', async () => {
         let quiz = document.getElementById('quiz');
         welcome.style.display = 'none';
         quiz.style.display = 'block';
-        showInfo(result,1);
+        showInfo(result,getId());
         
     })
     // button next
