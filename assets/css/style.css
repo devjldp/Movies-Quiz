@@ -6,8 +6,9 @@ body{
 /* Colors */
 
 .text-white{
-  color: #fafafa;
+  color: rgb(22, 85, 48);
 }
+
 
 /* Spacing */
 
@@ -105,7 +106,7 @@ ul{
   width: 40vw;
   height: auto;
   margin: 10vh auto;
-  background-color: rgba(255, 140, 0, 0.4);
+  background-color: rgba(255, 255, 255, 0.6);
 
 }
 
@@ -124,7 +125,7 @@ ul{
     width: 90vw;
   }
   button{
-    background-color: rgba(255, 140, 0, 0.4);
+    background-color: rgba(255, 140, 0, 0.8);
     border: 1px solid white;
     color: white;
     border-radius: 20px;
