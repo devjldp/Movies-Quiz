@@ -87,8 +87,190 @@
     "c" : "Leonardo DiCaprio",
     "d" : "Tom Cruise",
     "correct" : "Russell Crowe"
+  },
+  "11" : {
+    "idquestion" : 11,
+    "question" : "For which movie was Sylvester Stallone nominated for the Oscar for Best Actor?",
+    "a" : "Stop! or my mom will shoot",
+    "b" : "Demolition man",
+    "c" : "first Blood",
+    "d" : "Rocky",
+    "correct" : "Rocky"
+  },
+  "12" : {
+    "idquestion" : 12 ,
+    "question" : "Which 1980s film features a group of kids searching for pirate treasure?",
+    "a" : "Stand by Me",
+    "b" : "The Goonies",
+    "c" : "E.T. the Extra-Terrestrial",
+    "d" : "Back to the Future",
+    "correct" : "The Goonies"
+  },
+  "13" : {
+    "idquestion" : 13,
+    "question" : "Who directed the 2010 film \"Inception,\" which explores the concept of entering dreams?",
+    "a" : "Quentin Tarantino",
+    "b" : "Martin Scorsese",
+    "c" : "James Cameron",
+    "d" : "Christopher Nolan",
+    "correct" : "Christopher Nolan"
+  },
+  "14" : {
+    "idquestion" : 14,
+    "question" : "Which film won the Academy Award for Best Picture in 1977?",
+    "a" : "Network",
+    "b" : "Rocky",
+    "c" : "The Godfather Part II",
+    "d" : "All the President's Men",
+    "correct" : "Rocky"
+  },
+  "15" : {
+    "idquestion" : 15,
+    "question" : "In the movie \"The Departed,\" who plays the undercover cop Billy Costigan?",
+    "a" : "Matt Damon",
+    "b" : "Leonardo DiCaprio",
+    "c" : "Mark Wahlberg",
+    "d" : "Brad Pitt",
+    "correct" : "Leonardo DiCaprio"
+  },
+  "16" : {
+    "idquestion" : 16,
+    "question" : "Which movie follows the adventures of a teenager who travels through time in a DeLorean?",
+    "a" : "Back to the Future",
+    "b" : "Ghostbusters",
+    "c" : "The Terminator",
+    "d" : "Ferris Bueller's Day Off",
+    "correct" : "Back to the Future"
+  },
+  "17" : {
+    "idquestion" :17,
+    "question" : "Who portrayed the character of Tony Montana in the crime film \"Scarface\"?",
+    "a" : "Marlon Brando",
+    "b" : "Joe Pesci",
+    "c" : "Robert De Niro",
+    "d" : "Al Pacino",
+    "correct" : "Al Pacino"
+  },
+  "18" : {
+    "idquestion" : 18,
+    "question" : "Which movie from the 2010s tells the story of a young woman who finds love while battling a life-threatening illness?",
+    "a" : "The Fault in Our Stars",
+    "b" : "Me Before You",
+    "c" : "La La Land",
+    "d" : "A Star is Born",
+    "correct" : "The Fault in Our Stars"
+  },
+  "19" : {
+    "idquestion" : 19,
+    "question" : "In the film \"Jurassic Park,\" what type of animals do the main characters encounter?",
+    "a" : "Dinosaurs",
+    "b" : "Aliens",
+    "c" : "Zombies",
+    "d" : "Vampires",
+    "correct" : "Dinosaurs"
+  },
+  "20" : {
+    "idquestion" : 20,
+    "question" : "Which 2016 film features a group of rebels stealing plans for the Death Star from the Galactic Empire?",
+    "a" : "Star Wars: The Force Awakens",
+    "b" : "Rogue One: A Star Wars Story",
+    "c" : "Star Wars: The Last Jedi",
+    "d" : "Solo: A Star Wars Story",
+    "correct" : "Rogue One: A Star Wars Story"
+  },
+  "21" : {
+    "idquestion" : 21,
+    "question" : "Who directed the 1999 science fiction film \"The Matrix\"?",
+    "a" : "Steven Spielberg",
+    "b" : "James Cameron",
+    "c" : "Ridley Scott",
+    "d" : "The Wachowskis",
+    "correct" : "The Wachowskis"
+  },
+  "22" : {
+    "idquestion" : 22,
+    "question" : "Which 2000s movie is about an animal with a passion for cooking who aspires to become a chef in a famous restaurant?",
+    "a" : "Ratatouille",
+    "b" : "Finding Nemo",
+    "c" : "Madagascar",
+    "d" : "Kung Fu Panda",
+    "correct" : "Ratatouille"
+  },
+  "23" : {
+    "idquestion" : 23,
+    "question" : "In the film \"Die Hard,\" who plays the role of John McClane?",
+    "a" : "Bruce Willis",
+    "b" : "Arnold Schwarzenegger",
+    "c" : "Sylvester Stallone",
+    "d" : "Mel Gibson",
+    "correct" : "Bruce Willis"
+  },
+  "24" : {
+    "idquestion" : 24,
+    "question" : "Which 2013 film features a young man who forms an unlikely friendship with an elderly woman in a nursing home, sharing stories from the past?",
+    "a" : "The Notebook",
+    "b" : "The Help",
+    "c" : "The Best Exotic Marigold Hotel",
+    "d" : "The Green Mile",
+    "correct" : "The Best Exotic Marigold Hotel"
+  },
+  "25" : {
+    "idquestion" : 25,
+    "question" : "In the movie \"Avatar,\" directed by James Cameron, what is the name of the the main character?",
+    "a" : "Miles Quaritch",
+    "b" : "Jake Sully",
+    "c" : "Grace Augustine",
+    "d" : "Pandora",
+    "correct" : "Jake Sully"
+  },
+  "26" : {
+    "idquestion" : 26,
+    "question" : "Which actor played the role of the Joker in the film \"The Dark Knight\"?",
+    "a" : "Jack Nicholson",
+    "b" : "Jared Let",
+    "c" : "Heath Ledger",
+    "d" : "Joaquin Phoenix",
+    "correct" : "Heath Ledger"
+  },
+  "27" : {
+    "idquestion" : 27,
+    "question" : "Who directed the 1994 film \"The Shawshank Redemption,\" which is often ranked as one of the greatest movies of all time?",
+    "a" : "Martin Scorsese",
+    "b" : "Frank Darabont",
+    "c" : "Steven Spielberg",
+    "d" : "Paul Thomas Anderson",
+    "correct" : "Frank Darabont"
+  },
+  "28" : {
+    "idquestion" : 28,
+    "question" : "In the film \"Eternal Sunshine of the Spotless Mind,\" who played the role of Joel Barish?",
+    "a" : "Jim Carrey",
+    "b" : "Johnny Depp",
+    "c" : "Leonardo DiCaprio",
+    "d" : "Tom Hanks",
+    "correct" : "Jim Carrey"
+  },
+  "29" : {
+    "idquestion" : 29,
+    "question" : "Which 1980s movie, directed by John Hughes, follows a high school student's quest to skip school for a day of adventure in Chicago?",
+    "a" : "Sixteen Candles",
+    "b" : "Ferris Bueller's Day Off",
+    "c" : "The Breakfast Club",
+    "d" : "Pretty in Pink",
+    "correct" : "Ferris Bueller's Day Off"
+  },
+  "30" : {
+    "idquestion" : 30,
+    "question" : "What is the name of the character played by Johnny Depp in the \"Pirates of the Caribbean\" film series?",
+    "a" : "Captain Hook",
+    "b" : "Captain Barbossa",
+    "c" : "Blackbeard",
+    "d" : "Captain Jack Sparrow",
+    "correct" : "Captain Jack Sparrow"
   }
 }
+
+
 
 
 
