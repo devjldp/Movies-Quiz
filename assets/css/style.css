@@ -1,0 +1,143 @@
+body{
+  background-image: url('../images/background.png');
+  background-position: center;
+}
+
+/* Colors */
+
+.text-white{
+  color: #fafafa;
+}
+
+/* Spacing */
+
+.text-center{
+  text-align: center;
+}
+.text-left{
+  text-align: left;
+}
+
+.pad-20{
+  padding-top: 30px;
+}
+
+.padleft-20{
+  padding-left: 20px;
+}
+
+margin-b-5{
+  margin-bottom: 5px;
+}
+
+/* Grid */
+.grid{
+  display: grid;
+  grid-template-columns: 1fr 6fr 1fr;
+  grid-template-rows: repeat(3, 1fr);
+  align-items: center;
+  text-align: center;
+}
+#welcome-heading{
+  grid-column-start: 2;
+  grid-column-end: 3;
+  grid-row-start: 1;
+  grid-row-end: 2;
+}
+
+#start{
+  grid-column-start: 1;
+  grid-column-start: 2;
+  grid-row-start: 3;
+  grid-row-end: 4;
+}
+
+
+/* Buttons */
+
+button{
+  background-color: rgba(255, 140, 0, 0.4);
+  border: 1px solid white;
+  color: white;
+  border-radius: 20px;
+  margin-top: 5px;
+  cursor:pointer;
+  padding: 8px 5px;
+  width: 260px;
+  text-align: center;
+}
+
+button:hover {
+  background-color: azure;
+  color: rgb(22, 85, 48);
+  border-color: #000000;
+}
+
+#next{
+  width: auto;
+  padding: 8px 10px;
+  margin-bottom: 5px;
+}
+
+#start button{
+  width: auto;
+  padding: 8px 10px;
+}
+
+
+.selected {
+  background-color: azure;
+  color: rgb(22, 85, 48);
+  border-color: #000000;
+}
+
+
+
+
+ul{
+  list-style: none;
+  text-align: center;
+  
+}
+
+
+.container{
+  width: 40vw;
+  height: auto;
+  margin: 10vh auto;
+  background-color: rgba(255, 140, 0, 0.4);
+
+}
+
+#quiz{
+  /* visibility: hidden; */
+  display: none;
+}
+
+
+
+/* medias */
+
+@media screen and (max-width: 480px){
+
+  .container{
+    width: 90vw;
+  }
+  button{
+    background-color: rgba(255, 140, 0, 0.4);
+    border: 1px solid white;
+    color: white;
+    border-radius: 20px;
+    margin-top: 5px;
+    cursor:pointer;
+    padding: 8px 5px;
+    width: 260px;
+    text-align: center;
+  }
+  ul{
+    list-style: none;
+    text-align: left;
+    /* margin-left: 15%; */
+  }
+
+}

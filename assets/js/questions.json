@@ -1,0 +1,95 @@
+{"1" : {
+    "idquestion" : 1,
+    "question" : "Which famous director won the Academy Award for Best Director for the movie \"The Godfather\" in 1972?",
+    "a" : "Martin Scorsese",
+    "b": "Francis Ford Coppola",
+    "c" : "Steven Spielberg",
+    "d" : "Quentin Tarantino",
+    "correct" : "Francis Ford Coppola"
+  },
+  "2": {
+    "idquestion" : 2,
+    "question" : "Which 1980s movie, directed by Ridley Scott and starring Harrison Ford, is a classic science fiction film?",
+    "a" : "E.T. the Extra-Terrestrial",
+    "b": "Blade Runner",
+    "c" : "Back to the Future",
+    "d" : "The Terminator",
+    "correct" : "Blade Runner"
+  },
+  "3" : {
+    "idquestion" : 3,
+    "question" : "Which 1994 film, directed by Quentin Tarantino, popularized the song \"Misirlou\" by Dick Dale?",
+    "a" : "Pulp Fiction",
+    "b": "Reservoir Dogs",
+    "c" : "Kill Bill: Vol. 1",
+    "d" :"Jackie Brown",
+    "correct" : "Pulp Fiction"
+  },
+  "4" : {
+    "idquestion" : 4,
+    "question" : "Which of the following movies won the Academy Award for Best Picture in 2020?",
+    "a" : "The Irishman",
+    "b" : "Joker",
+    "c" : "Parasite",
+    "d" : "1917",
+    "correct" : "Parasite"
+  },
+  "5" : {
+    "idquestion" : 5,
+    "question" : "In the movie \"Forrest Gump,\" what is the famous line Forrest says:\"Life is like a box of chocolates...\"?",
+    "a" : "...you never know what you're gonna get.",
+    "b" : "...it's full of surprises.",
+    "c" : "...you have to savor every moment.",
+    "d" : "...it's sweet and delightful.",
+    "correct" : "...you never know what you're gonna get."
+  },
+  "6" :{
+    "idquestion" : 6,
+    "question" : "Which actor portrayed the iconic character James Bond in the 1970s film \"The Spy Who Loved Me\"?",
+    "a" : "Roger Moore",
+    "b" : "Sean Connery",
+    "c" : "Timothy Dalton",
+    "d" : "Pierce Brosnan",
+    "correct" : "Roger Moore"
+  },
+  "7" : {
+    "idquestion" : 7,
+    "question" : "Who directed the 2014 science fiction film \"Interstellar\"?",
+    "a" : "Christopher Nolan",
+    "b" : "James Cameron",
+    "c" : "Denis Villeneuve",
+    "d" : "Ridley Scott",
+    "correct" : "Christopher Nolan"
+  },
+  "8" : {
+    "idquestion" : 8,
+    "question" : "In the film \"The Silence of the Lambs,\" what is the name of the brilliant psychiatrist and cannibalistic serial killer?",
+    "a" : "Norman Bates",
+    "b" : "Michael Myers",
+    "c" : "Hannibal Lecter",
+    "d" : "Freddy Krueger",
+    "correct" : "Hannibal Lecter"
+  },
+  "9":{
+    "idquestion" : 9,
+    "question" : "Which animated film from the 2000s tells the story of an ogre and his journey to rescue a princess?",
+    "a" : "Finding Nemo",
+    "b" : "Shrek",
+    "c" : "Toy Story",
+    "d" : "The Incredibles",
+    "correct" : "Shrek"
+  },
+  "10": {
+    "idquestion" : 10,
+    "question" : "In the film \"Gladiator,\" who portrayed the Roman general Maximus Decimus Meridius?",
+    "a" : "Brad Pitt",
+    "b" : "Russell Crowe",
+    "c" : "Leonardo DiCaprio",
+    "d" : "Tom Cruise",
+    "correct" : "Russell Crowe"
+  }
+}
+
+
+
+
