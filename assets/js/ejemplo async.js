@@ -22,7 +22,7 @@ const getData = async () => {
 };
 
 const getId = () =>{
-  let id = Math.floor(Math.random()*30+1);
+  let id = Math.floor(Math.random()*72+1);
   return id
 }
 const checkAnswer = (answer, correct) => {

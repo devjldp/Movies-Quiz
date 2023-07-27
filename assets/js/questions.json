@@ -267,11 +267,384 @@
     "c" : "Blackbeard",
     "d" : "Captain Jack Sparrow",
     "correct" : "Captain Jack Sparrow"
+  },
+  "31": {
+    "idquestion": 31,
+    "question": "In the movie 'The Godfather,' who plays the role of Don Vito Corleone?",
+    "a": "Robert De Niro",
+    "b": "Marlon Brando",
+    "c": "Al Pacino",
+    "d": "Joe Pesci",
+    "correct": "Marlon Brando"
+  },
+  "32": {
+    "idquestion": 32,
+    "question": "Which actor portrayed Batman in the trilogy directed by Christopher Nolan?",
+    "a": "Christian Bale",
+    "b": "Robert Downey Jr.",
+    "c": "Hugh Jackman",
+    "d": "Ben Affleck",
+    "correct": "Christian Bale"
+  },
+  "33": {
+    "idquestion": 33,
+    "question": "Who portrayed James Bond in the 2006 film 'Casino Royale'?",
+    "a": "Pierce Brosnan",
+    "b": "Daniel Craig",
+    "c": "Sean Connery",
+    "d": "Roger Moore",
+    "correct": "Daniel Craig"
+  },    
+  "34" : {
+    "idquestion": 34,
+    "question": "In which city does the movie 'La La Land' take place?",
+    "a": "New York",
+    "b": "Chicago",
+    "c": "Los Angeles",
+    "d": "San Francisco",
+    "correct": "Los Angeles"
+  },
+  "35": {
+    "idquestion": 35,
+    "question": "Who portrayed Hermione Granger in the 'Harry Potter' film series?",
+    "a": "Emma Stone",
+    "b": "Emma Watson",
+    "c": "Emma Roberts",
+    "d": "Emily Blunt",
+    "correct": "Emma Watson"
+  },
+  "36": {
+    "idquestion": 36,
+    "question": "In the movie 'The Matrix,' what is the famous phrase spoken by Morpheus to Neo?",
+    "a": "'I'll be back!'",
+    "b": "'May the Force be with you'",
+    "c": "'Hasta la vista, baby'",
+    "d": "'The red pill or the blue pill'",
+    "correct": "'The red pill or the blue pill'"
+  },
+  "37": {
+    "idquestion": 37,
+    "question": "What is the name of Johnny Depp's character in Tim Burton's 'Alice in Wonderland' film series?",
+    "a": "The Mad Hatter",
+    "b": "The Cheshire Cat",
+    "c": "The White Rabbit",
+    "d": "The Grinch",
+    "correct": "The Mad Hatter"
+  },
+  "38": {
+    "idquestion": 38,
+    "question": "In which Christopher Nolan film does a team of thieves steal information from people's minds while they dream?",
+    "a": "'Inception'",
+    "b": "'Interstellar'",
+    "c": "'Dunkirk'",
+    "d": "'The Prestige'",
+    "correct": "'Inception'"
+  },
+  "39": {
+    "idquestion":39,
+    "question": "Which Disney animated film is based on Chinese folklore and follows the adventures of Mulan?",
+    "a": "'Sleeping Beauty'",
+    "b": "'Snow White and the Seven Dwarfs'",
+    "c": "'Mulan'",
+    "d": "'Beauty and the Beast'",
+    "correct": "'Mulan'"
+  },
+  "40": {
+    "idquestion": 40,
+    "question": "What is the name of the character played by Marlon Brando in the movie 'Apocalypse Now'?",
+    "a": "Don Vito Corleone",
+    "b": "Colonel Walter E. Kurtz",
+    "c": "Jor-El",
+    "d": "Terry Malloy",
+    "correct": "Colonel Walter E. Kurtz"
+  },
+  "41": {
+    "idquestion": 41,
+    "question": "Which director is known for his collaboration with actor Leonardo DiCaprio in films like 'Inception' and 'The Revenant'?",
+    "a": "Christopher Nolan",
+    "b": "Martin Scorsese",
+    "c": "Quentin Tarantino",
+    "d": "Steven Spielberg",
+    "correct": "Christopher Nolan"
+  },
+  "42": {
+    "idquestion": 42,
+    "question": "In the film 'Citizen Kane,' what is the last word spoken by Charles Foster Kane?",
+    "a": "Rosebud",
+    "b": "Legacy",
+    "c": "Rosewater",
+    "d": "Citizen",
+    "correct": "Rosebud"
+  },
+  "43": {
+    "idquestion": 43,
+    "question": "Which actor won an Academy Award for Best Actor for his role in the film 'There Will Be Blood'?",
+    "a": "Joaquin Phoenix",
+    "b": "Daniel Day-Lewis",
+    "c": "Leonardo DiCaprio",
+    "d": "Gary Oldman",
+    "correct": "Daniel Day-Lewis"
+  },
+  "44": {
+    "idquestion": 44,
+    "question": "Who directed the movie 'The Shining' based on Stephen King's novel?",
+    "a": "Stanley Kubrick",
+    "b": "Alfred Hitchcock",
+    "c": "David Lynch",
+    "d": "Francis Ford Coppola",
+    "correct": "Stanley Kubrick"
+  },     
+  "45": {
+    "idquestion": 45,
+    "question": "In the movie 'Gone with the Wind,' who plays the role of Rhett Butler?",
+    "a": "Clark Gable",
+    "b": "Humphrey Bogart",
+    "c": "Gregory Peck",
+    "d": "Cary Grant",
+    "correct": "Clark Gable"
+  },
+  "46": {
+    "idquestion": 46,
+    "question": "Which legendary actor starred in the films 'Cool Hand Luke' and 'The Hustler'?",
+    "a": "Marlon Brando",
+    "b": "Paul Newman",
+    "c": "James Dean",
+    "d": "Humphrey Bogart",
+    "correct": "Paul Newman"
+  },
+  "47": {
+    "idquestion": 47,
+    "question": "Who directed the 1979 science fiction horror film 'Alien'?",
+    "a": "Steven Spielberg",
+    "b": "Ridley Scott",
+    "c": "George Lucas",
+    "d": "James Cameron",
+    "correct": "Ridley Scott"
+  },
+  "48": {
+    "idquestion": 48,
+    "question": "Which film won the Academy Award for Best Picture in 1994?",
+    "a": "'Pulp Fiction'",
+    "b": "'Forrest Gump'",
+    "c": "'The Shawshank Redemption'",
+    "d": "'Schindler's List'",
+    "correct": "'Forrest Gump'"
+  },
+  "49": {
+    "idquestion": 49,
+    "question": "In the film 'Taxi Driver,' who plays the role of Travis Bickle?",
+    "a": "Robert De Niro",
+    "b": "Al Pacino",
+    "c": "Dustin Hoffman",
+    "d": "Jack Nicholson",
+    "correct": "Robert De Niro"
+  },
+  "50": {
+    "idquestion": 50,
+    "question": "Which actor portrayed the character Hannibal Lecter in the film 'The Silence of the Lambs'?",
+    "a": "Anthony Hopkins",
+    "b": "Christopher Walken",
+    "c": "Sean Connery",
+    "d": "Jack Nicholson",
+    "correct": "Anthony Hopkins"
+  },
+  "51": {
+    "idquestion": 51,
+    "question": "In the movie 'Fight Club,' what is the name of Brad Pitt's character?",
+    "a": "Tyler Durden",
+    "b": "John Wick",
+    "c": "Travis Bickle",
+    "d": "Tony Stark",
+    "correct": "Tyler Durden"
+  },
+  "52": {
+    "idquestion": 52,
+    "question": "Which movie features a character named Norman Bates and the famous shower scene?",
+    "a": "'Psycho'",
+    "b": "'The Shining'",
+    "c": "'The Exorcist'",
+    "d": "'The Texas Chain Saw Massacre'",
+    "correct": "'Psycho'"
+  },
+  "53": {
+    "idquestion": 53,
+    "question": "In the film 'A Clockwork Orange,' what is the protagonist's name?",
+    "a": "Alex DeLarge",
+    "b": "Jack Torrance",
+    "c": "Travis Bickle",
+    "d": "Wendy Torrance",
+    "correct": "Alex DeLarge"
+  },
+  "54": {
+    "idquestion": 54,
+    "question": "Which iconic filmmaker directed the movies 'The Birds' and 'Vertigo'?",
+    "a": "Alfred Hitchcock",
+    "b": "Stanley Kubrick",
+    "c": "Francis Ford Coppola",
+    "d": "Martin Scorsese",
+    "correct": "Alfred Hitchcock"
+  },
+  "55": {
+    "idquestion": 55,
+    "question": "In the film 'The Departed,' who plays the role of mob boss Frank Costello?",
+    "a": "Robert De Niro",
+    "b": "Alec Baldwin",
+    "c": "Jack Nicholson",
+    "d": "Martin Sheen",
+    "correct": "Jack Nicholson"
+  },
+  "56": {
+    "idquestion": 56,
+    "question": "Which movie marked the directorial debut of actor Orson Welles and is often considered one of the greatest films of all time?",
+    "a": "'Casablanca'",
+    "b": "'Gone with the Wind'",
+    "c": "'Citizen Kane'",
+    "d": "'The Godfather'",
+    "correct": "'Citizen Kane'"
+  },
+  "57": {
+    "idquestion": 57,
+    "question": "In the movie 'Blade Runner,' what is the name of the special unit of the police force responsible for hunting replicants?",
+    "a": "Cyber Crimes Division",
+    "b": "Replicant Enforcement Agency",
+    "c": "Nexus Unit",
+    "d": "Blade Runners",
+    "correct": "Blade Runners"
+  }, 
+  "58": {
+    "idquestion": 58,
+    "question": "Which actor portrayed the character Michael Corleone in 'The Godfather' trilogy?",
+    "a": "Marlon Brando",
+    "b": "Al Pacino",
+    "c": "Robert De Niro",
+    "d": "Joe Pesci",
+    "correct": "Al Pacino"
+  },
+  "59": {
+    "idquestion": 59,
+    "question": "In the movie 'The Prestige,' what is the stage name of Christian Bale's character?",
+    "a": "The Great Danton",
+    "b": "The Amazing Borden",
+    "c": "The Illusionist",
+    "d": "The Marvelous Magician",
+    "correct": "The Great Danton"
+  },
+  "60": {
+    "idquestion": 60,
+    "question": "Which film won the Academy Award for Best Picture in 1972?",
+    "a": "'The French Connection'",
+    "b": "'Rocky'",
+    "c": "'One Flew Over the Cuckoo's Nest'",
+    "d": "'The Godfather'",
+    "correct": "'The Godfather'"
+  },
+  "61": {
+    "idquestion": 61,
+    "question": "Who directed the science fiction film '2001: A Space Odyssey'?",
+    "a": "George Lucas",
+    "b": "Stanley Kubrick",
+    "c": "Steven Spielberg",
+    "d": "James Cameron",
+    "correct": "Stanley Kubrick"
+  },
+  "62": {
+    "idquestion": 62,
+    "question": "In the movie 'The Grand Budapest Hotel,' what is the profession of Ralph Fiennes' character, Monsieur Gustave H.?",
+    "a": "Concierge",
+    "b": "Detective",
+    "c": "Chef",
+    "d": "Fashion Designer",
+    "correct": "Concierge"
+  },
+  "63": {
+    "idquestion": 63,
+    "question": "Which film was the directorial debut of Jordan Peele and is a horror-thriller that addresses social issues?",
+    "a": "'Hereditary'",
+    "b": "'Get Out'",
+    "c": "'A Quiet Place'",
+    "d": "'Us'",
+    "correct": "'Get Out'"
+  },
+  "64": {
+    "idquestion": 64,
+    "question": "In the film 'The Lord of the Rings: The Fellowship of the Ring,' who is the bearer of the One Ring?",
+    "a": "Frodo Baggins",
+    "b": "Gandalf",
+    "c": "Aragorn",
+    "d": "Sauron",
+    "correct": "Frodo Baggins"
+  },
+  "65": {
+    "idquestion": 65,
+    "question": "Which movie features a group of magicians called 'The Four Horsemen' performing elaborate heists?",
+    "a": "'Now You See Me'",
+    "b": "'The Prestige'",
+    "c": "'The Illusionist'",
+    "d": "'The Great Debaters'",
+    "correct": "'Now You See Me'"
+  },
+  "66": {
+    "idquestion": 66,
+    "question": "Who directed the epic historical drama film 'Schindler's List'?",
+    "a": "Martin Scorsese",
+    "b": "Steven Spielberg",
+    "c": "Francis Ford Coppola",
+    "d": "Quentin Tarantino",
+    "correct": "Steven Spielberg"
+  },    
+  "67": {
+    "idquestion": 67,
+    "question": "In the movie 'No Country for Old Men,' what weapon does the antagonist Anton Chigurh use as his signature killing tool?",
+    "a": "Katana",
+    "b": "Machete",
+    "c": "Pneumatic Bolt Gun",
+    "d": "Crossbow",
+    "correct": "Pneumatic Bolt Gun"
+  },
+  "68": {
+    "idquestion": 68,
+    "question": "Which actress won an Academy Award for her role in the film 'Black Swan'?",
+    "a": "Natalie Portman",
+    "b": "Scarlett Johansson",
+    "c": "Jennifer Lawrence",
+    "d": "Anne Hathaway",
+    "correct": "Natalie Portman"
+  },
+  "69": {
+    "idquestion": 69,
+    "question": "Which film won the Academy Award for Best Picture in 1980?",
+    "a": "'Ordinary People'",
+    "b": "'Raging Bull'",
+    "c": "'Kramer vs. Kramer'",
+    "d": "'Apocalypse Now'",
+    "correct": "'Ordinary People'"
+  },
+  "70": {
+    "idquestion": 70,
+    "question": "In the movie 'The Usual Suspects,' who is the mysterious criminal mastermind Keyser Söze?",
+    "a": "Verbal Kint",
+    "b": "Kaiser Soze",
+    "c": "Jack Vincennes",
+    "d": "Tyler Durden",
+    "correct": "Verbal Kint"
+  },
+  "71": {
+    "idquestion": 71,
+    "question": "Which movie features a talented artist played by Leonardo DiCaprio who forges checks and assumes various identities?",
+    "a": "American Psycho",
+    "b": "The Wolf of Wall Street",
+    "c": "Catch Me If You Can",
+    "d": "The Great Gatsby",
+    "correct": "Catch Me If You Can"
+  },
+  "72" : {
+    "idquestion": 72,
+    "question": "Who directed the film 'Apocalypse Now,' which is based on Joseph Conrad's novel 'Heart of Darkness'?",
+    "a": "Francis Ford Coppola",
+    "b": "Martin Scorsese",
+    "c": "Oliver Stone",
+    "d": "Steven Spielberg",
+    "correct": "Oliver Stone"
   }
 }
-
-
-
-
-
 
