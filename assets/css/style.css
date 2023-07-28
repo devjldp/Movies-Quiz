@@ -41,7 +41,7 @@ margin-b-5{
   grid-template-columns: 1fr 6fr 1fr;
   grid-template-rows: repeat(3, 1fr);
   align-items: center;
-  text-align: center;
+  /* text-align: center; */
 }
 #welcome-heading{
   grid-column-start: 2;
@@ -92,33 +92,28 @@ button:hover {
   padding: 8px 10px;
 }
 
-
+/* List of answers */
 .selected {
   background-color: azure;
   color: rgb(22, 85, 48);
   border-color: #000000;
 }
 
-
-
-
 ul{
   list-style: none;
   text-align: center;
+  padding-inline-start: 0px;
   
 }
-
 
 .container{
   width: 40vw;
   height: 100%;
   margin: 10vh auto;
   background-color: rgba(255, 255, 255, 0.6);
-
 }
 
 #quiz{
-  /* visibility: hidden; */
   display: none;
 }
 
@@ -149,7 +144,6 @@ ul{
   ul{
     list-style: none;
     text-align: left;
-    /* margin-left: 15%; */
   }
 
 }

@@ -35,7 +35,6 @@ const checkAnswer = (answer, correct) => {
 
 const showInfo = (result,id) => {
   questionsArray.push(id);
-  console.log(questionsArray);
   let question = document.getElementById("question");
   let answers = document.getElementById("answers");
   let nQuestion = document.getElementById("n-question");
@@ -74,8 +73,6 @@ const showInfo = (result,id) => {
   let nextButton = document.getElementById('next');
   if(parseInt(nQuestion.innerText)<=20){
     nextButton.addEventListener('click', () => {
-      console.log(userAnswer)
-      console.log(result[id].correct)
       if(selected){
         if(checkAnswer(userAnswer,result[id].correct)){
           userScore++
@@ -104,10 +101,13 @@ const showInfo = (result,id) => {
             category = result["clasification"]["category1"];
           }
           let thank = document.getElementById('quiz');
-          thank.innerHTML = `Congratulations! Your score is: ${score.innerText} <br>
+          thank.innerHTML = `<h1 class="padtop-30">Congratulations! Your score is: ${score.innerText}</h1> 
           <h2> You are ${category.title} </h2>
-          <p>${category.description}</p>
-          `
+          <p class="pad-10">${category.description}</p>
+          <div id = "category-image"><div> 
+          `;
+          let image = document.getElementById('category-image');
+          image.style.backgroundImage = `url('${category.url}')`;
         }
       } else{
         alert('Choose an answer')
@@ -125,8 +125,7 @@ const showInfo = (result,id) => {
 window.addEventListener('DOMContentLoaded', async () => {
   try {
     const result = await getData(); // Obtein data 
-    console.log(result); // Aquí puedes acceder a los datos obtenidos
-    console.log(result["clasification"]["category5"])
+
     let startButton = document.getElementById('start');
     startButton.addEventListener('click', () => {
         let welcome = document.getElementById('welcome');
