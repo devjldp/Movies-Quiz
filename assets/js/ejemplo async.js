@@ -22,7 +22,7 @@ const getData = async () => {
 };
 
 const getId = () =>{
-  let id = Math.floor(Math.random()*72+1);
+  let id = Math.floor(Math.random()*110+1);
   return id
 }
 const checkAnswer = (answer, correct) => {
@@ -53,7 +53,7 @@ const showInfo = (result,id) => {
       </div>
   </ul>
   <button id='next'> Next </button>
-  <p class='margin-b-5'>Score: <span id="score">${userScore}</span></p>`;
+  <h3 class='margin-b-5'>Score: <span id="score">${userScore}</span></h3>`;
 
   let score = document.getElementById('score');
   let answerButtons = document.getElementsByClassName('answer');
@@ -72,7 +72,7 @@ const showInfo = (result,id) => {
   }
 
   let nextButton = document.getElementById('next');
-  if(parseInt(nQuestion.innerText)<=15){
+  if(parseInt(nQuestion.innerText)<=20){
     nextButton.addEventListener('click', () => {
       console.log(userAnswer)
       console.log(result[id].correct)
@@ -83,7 +83,7 @@ const showInfo = (result,id) => {
         } else{
           score.innerText = userScore;
         }
-        if(parseInt(nQuestion.innerText)<15){
+        if(parseInt(nQuestion.innerText)<20){
           nQuestion.innerText = parseInt(nQuestion.innerText)+1;
           // Obtener una nueva pregunta pero que no este incluida en el array de questiones
           do{
@@ -91,9 +91,23 @@ const showInfo = (result,id) => {
           } while(questionsArray.includes(id))
           showInfo(result,id);
         }else{
+          let category;
+          if (userScore == 20){
+            category = result["clasification"]["category5"];
+          } else if (userScore >= 15) {
+            category = result["clasification"]["category4"];
+          } else if (userScore >= 10){
+            category = result["clasification"]["category3"];
+          } else if (userScore >= 5) {
+            category = result["clasification"]["category2"];
+          } else{
+            category = result["clasification"]["category1"];
+          }
           let thank = document.getElementById('quiz');
-          thank.innerHTML = `Thank you for participate! <br>
-          your score is ${score.innerText}`
+          thank.innerHTML = `Congratulations! Your score is: ${score.innerText} <br>
+          <h2> You are ${category.title} </h2>
+          <p>${category.description}</p>
+          `
         }
       } else{
         alert('Choose an answer')
@@ -112,7 +126,7 @@ window.addEventListener('DOMContentLoaded', async () => {
   try {
     const result = await getData(); // Obtein data 
     console.log(result); // Aquí puedes acceder a los datos obtenidos
-    
+    console.log(result["clasification"]["category5"])
     let startButton = document.getElementById('start');
     startButton.addEventListener('click', () => {
         let welcome = document.getElementById('welcome');

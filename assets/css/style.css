@@ -115,6 +115,10 @@ ul{
   display: none;
 }
 
+#question{
+  padding-left: 2%;
+  padding-right: 2%;
+}
 
 
 /* medias */
