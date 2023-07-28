@@ -991,23 +991,28 @@
   "clasification": {
     "category1": {
         "title": "Fleeting Filmmaker",
-        "description": "If you scored 0 to 4 points, you seem more lost than the protagonist of a horror movie in a haunted house. But don't worry, we all start somewhere. Keep watching more movies, and soon you'll be a respectable cinephile!"
+        "description": "If you scored 0 to 4 points, you seem more lost than the protagonist of a horror movie in a haunted house. But don't worry, we all start somewhere. Keep watching more movies, and soon you'll be a respectable cinephile!",
+        "url":"./assets/images/johnnyenglish.webp"
     },
     "category2": {
       "title": "Background Extra",
-      "description": "If you got 5 to 9 points, you're like the extra who briefly appears in a scene and goes unnoticed. Although you're not a movie star, you have the potential to shine if you continue immersing yourself in the cinematic world."
+      "description": "If you got 5 to 9 points, you're like the extra who briefly appears in a scene and goes unnoticed. Although you're not a movie star, you have the potential to shine if you continue immersing yourself in the cinematic world.",
+      "url":"./assets/images/PippinBoyd.webp"
     },
     "category3": {
       "title": "Armchair Critic",
-      "description": "If you scored 10 to 14 points, you're like a film critic in the armchair at the back. You have some solid opinions about movies, but you haven't earned a VIP pass on the red carpet yet."
+      "description": "If you scored 10 to 14 points, you're like a film critic in the armchair at the back. You have some solid opinions about movies, but you haven't earned a VIP pass on the red carpet yet.",
+      "url":"./assets/images/armchaircritic.jpg"
     },
     "category4": {
       "title": "Spoiler Master",
-      "description": "If you achieved 15 to 19 points, you're a spoiler master, capable of predicting plot twists before they happen. Your knowledge of movies is so extensive that you could direct a three-hour film without the need for editing."
+      "description": "If you achieved 15 to 19 points, you're a spoiler master, capable of predicting plot twists before they happen. Your knowledge of movies is so extensive that you could direct a three-hour film without the need for editing.",
+      "url":"./assets/images/HansLanda.jpg"
     },
     "category5": {
       "title":"Editing Genius",
-      "description": "If you got 20 points, you're an editing genius of the silver screen! You're like the Quentin Tarantino of the quiz, able to blend movie genres and references into a unique masterpiece. Your knowledge of movies is so impressive that the closing credits aren't enough to acknowledge it"
+      "description": "If you got 20 points, you're an editing genius of the silver screen! You're like the Quentin Tarantino of the quiz, able to blend movie genres and references into a unique masterpiece. Your knowledge of movies is so impressive that the closing credits aren't enough to acknowledge it",
+      "url":"./assets/images/Tarantino.jpg"
     }
   }
 }

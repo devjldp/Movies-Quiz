@@ -19,7 +19,7 @@ body{
   text-align: left;
 }
 
-.pad-20{
+.padtop-30{
   padding-top: 30px;
 }
 
@@ -32,7 +32,11 @@ margin-b-5{
 }
 
 /* Grid */
-.grid{
+.grid-container{
+  align-items: center;
+  text-align: center;
+}
+.subgrid{
   display: grid;
   grid-template-columns: 1fr 6fr 1fr;
   grid-template-rows: repeat(3, 1fr);
@@ -53,6 +57,9 @@ margin-b-5{
   grid-row-end: 4;
 }
 
+.pad-10{
+  padding: 10px;
+}
 
 /* Buttons */
 
@@ -104,7 +111,7 @@ ul{
 
 .container{
   width: 40vw;
-  height: auto;
+  height: 100%;
   margin: 10vh auto;
   background-color: rgba(255, 255, 255, 0.6);
 
@@ -145,4 +152,12 @@ ul{
     /* margin-left: 15%; */
   }
 
+}
+
+#category-image{
+  width: 80%;
+  height: auto;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
 }
