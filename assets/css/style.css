@@ -30,7 +30,9 @@ body{
 margin-b-5{
   margin-bottom: 5px;
 }
-
+.image-center{
+  margin: 0 auto;
+}
 /* Grid */
 .grid-container{
   align-items: center;
@@ -122,6 +124,14 @@ ul{
   padding-right: 2%;
 }
 
+#category-image{
+  width: 250px;
+  height: 250px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  text-align: center;
+}
 
 /* medias */
 
@@ -145,13 +155,11 @@ ul{
     list-style: none;
     text-align: center;
   }
+  #category-image{
+    width: 200px;
+    height: 200px;
+  }
+  
 
 }
 
-#category-image{
-  width: 80%;
-  height: auto;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: contain;
-}

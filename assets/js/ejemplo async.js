@@ -103,8 +103,9 @@ const showInfo = (result,id) => {
           let thank = document.getElementById('quiz');
           thank.innerHTML = `<h1 class="padtop-30">Congratulations! Your score is: ${score.innerText}</h1> 
           <h2> You are ${category.title} </h2>
+          <div id="category-image" class="image-center"></div> 
           <p class="pad-10">${category.description}</p>
-          <div id = "category-image"><div> 
+          
           `;
           let image = document.getElementById('category-image');
           image.style.backgroundImage = `url('${category.url}')`;
