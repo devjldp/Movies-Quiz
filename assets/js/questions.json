@@ -612,7 +612,7 @@
   },
   "69": {
     "idquestion": 69,
-    "question": "Which film won the Academy Award for Best Picture in 1980?",
+    "question": "Which film won the 53rd Academy Awards ceremony for Best Picture?",
     "a": "'Ordinary People'",
     "b": "'Raging Bull'",
     "c": "'Kramer vs. Kramer'",
@@ -645,6 +645,370 @@
     "c": "Oliver Stone",
     "d": "Steven Spielberg",
     "correct": "Oliver Stone"
+  },
+  "73": {
+    "idquestion": 73,
+    "question": "Which movie stars Brad Pitt as a stuntman during the final years of Hollywood's Golden Age?",
+    "a": "'Fight Club'",
+    "b": "'Once Upon a Time in Hollywood'",
+    "c": "'Inglourious Basterds'",
+    "d": "'Troy'",
+    "correct": "'Once Upon a Time in Hollywood'"
+  },
+  "74": {
+    "idquestion": 74,
+    "question": "Which film directed by Darren Aronofsky features a ballet dancer's pursuit of perfection and her descent into madness?",
+    "a": "'Black Swan'",
+    "b": "'Requiem for a Dream'",
+    "c": "'The Wrestler'",
+    "d": "'Mother!'",
+    "correct": "'Black Swan'"
+  },
+  "75": {
+    "idquestion": 87,
+    "question": "In the movie 'Inglourious Basterds,' who plays the role of the cunning and ruthless Nazi Colonel Hans Landa?",
+    "a": "Christoph Waltz",
+    "b": "Daniel Day-Lewis",
+    "c": "Javier Bardem",
+    "d": "Tom Hardy",
+    "correct": "Christoph Waltz"
+  },
+  "76": {
+    "idquestion": 76,
+    "question": "In the movie 'American Psycho,' who plays the role of the wealthy and sadistic investment banker Patrick Bateman?",
+    "a": "Leonardo DiCaprio",
+    "b": "Christian Bale",
+    "c": "Johnny Depp",
+    "d": "Joaquin Phoenix",
+    "correct": "Christian Bale"
+  },
+  "77": {
+    "idquestion": 77,
+    "question": "Which film features a character named Danny Torrance and his psychic abilities, as he and his family confront supernatural forces in an isolated hotel?",
+    "a": "'The Exorcist'",
+    "b": "'Rosemary's Baby'",
+    "c": "'The Omen'",
+    "d": "'The Shining'",
+    "correct": "'The Shining'"
+  },
+  "78": {
+    "idquestion": 78,
+    "question": "After fleeing to England, what alias does Count Dracula use in society?",
+    "a": "Count Vlad",
+    "b": "Prince Dracul",
+    "c": "Count De Ville",
+    "d": "Count Alucard",
+    "correct": "Count De Ville"
+  },
+  "79": {
+    "idquestion": 79,
+    "question": "In 'Harry Potter and the Prisoner of Azkaban,' what is the name of the magical creature that can transform into anyone's worst fear?",
+    "a": "Boggart",
+    "b": "Dementor",
+    "c": "Basilisk",
+    "d": "Acromantula",
+    "correct": "Boggart"
+  },
+  "80": {
+    "idquestion": 80,
+    "question": "Which renowned filmmaker directed 'From Dusk Till Dawn'?",
+    "a": "Quentin Tarantino",
+    "b": "Martin Scorsese",
+    "c": "Steven Spielberg",
+    "d": "Christopher Nolan",
+    "correct": "Robert Rodriguez"
+  },
+  "81": {
+    "idquestion": 81,
+    "question": "Who directed the film 'The Silence of the Lambs,' based on Thomas Harris' novel?",
+    "a": "Alfred Hitchcock",
+    "b": "Ridley Scott",
+    "c": "Martin Scorsese",
+    "d": "Jonathan Demme",
+    "correct": "Jonathan Demme"
+  },
+  "82": {
+    "idquestion": 82,
+    "question": "In 'Cape Fear,' what crime did Max Cady commit that led to his imprisonment and fueled his desire for revenge?",
+    "a": "Murder",
+    "b": "Robbery",
+    "c": "Rape",
+    "d": "Assault",
+    "correct": "Rape"
+  },
+  "83": {
+    "idquestion": 83,
+    "question": "Which actress portrayed the iconic character of 'Nell'?",
+    "a": "Sigourney Weaver",
+    "b": "Jodie Foster",
+    "c": "Meryl Streep",
+    "d": "Julia Roberts",
+    "correct": "Jodie Foster"
+  },
+  "84": {
+    "idquestion": 84,
+    "question": "In the movie 'Eternal Sunshine of the Spotless Mind,' what is the name of the company that erases memories?",
+    "a": "Rekall",
+    "b": "Neuralyze",
+    "c": "Lacuna, Inc.",
+    "d": "MemoryPlus",
+    "correct": "Lacuna, Inc."
+  },
+  "85": {
+    "idquestion": 85,
+    "question": "Which movie stars Jake Gyllenhaal as a mysterious man who can travel through time and tries to prevent disasters?",
+    "a": "'Looper'",
+    "b": "'Edge of Tomorrow'",
+    "c": "'Source Code'",
+    "d": "'Predestination'",
+    "correct": "'Source Code'"
+  },
+  "86": {
+    "idquestion": 86,
+    "question": "In the film 'Goodfellas,' who plays the role of the main character, Henry Hill?",
+    "a": "Robert De Niro",
+    "b": "Al Pacino",
+    "c": "Joe Pesci",
+    "d": "Ray Liotta",
+    "correct": "Ray Liotta"
+  },
+  "87" : {
+    "idquestion": 87,
+    "question": "In the film 'The Dark Knight Rises,' who plays the role of the main antagonist, Bane?",
+    "a": "Tom Hardy",
+    "b": "Heath Ledger",
+    "c": "Joaquin Phoenix",
+    "d": "Jared Leto",
+    "correct": "Tom Hardy"
+  },
+  "88": {
+    "idquestion": 88,
+    "question": "In the movie 'The Green Mile,' who plays the role of the death row prison guard, Paul Edgecomb?",
+    "a": "Tom Hanks",
+    "b": "Brad Pitt",
+    "c": "Johnny Depp",
+    "d": "Denzel Washington",
+    "correct": "Tom Hanks"
+  },
+  "89": {
+    "idquestion": 89,
+    "question": "Which film features a washed-up actor attempting to revive his career with a Broadway play?",
+    "a": "'Birdman'",
+    "b": "'La La Land'",
+    "c": "'The Artist'",
+    "d": "'Mulholland Drive'",
+    "correct": "'Birdman'"
+  },
+  "90": {
+    "idquestion": 90,
+    "question": "Which Academy Award-winning director directed the original 1962 version of 'Cape Fear'?",
+    "a": "Martin Scorsese",
+    "b": "Alfred Hitchcock",
+    "c": "J. Lee Thompson",
+    "d": "Stanley Kubrick",
+    "correct": "J. Lee Thompson"
+  },
+  "91": {
+    "idquestion": 91,
+    "question": "Which animated film is about a robot left on Earth to clean up the planet after it became uninhabitable?",
+    "a": "'WALL-E'",
+    "b": "'The Incredibles'",
+    "c": "'Finding Nemo'",
+    "d": "'Up'",
+    "correct": "'WALL-E'"
+  },
+  "92": {
+    "idquestion": 92,
+    "question": "What type of establishment is the Titty Twister, where the Gecko brothers and their hostages seek refuge?",
+    "a": "Bar",
+    "b": "Motel",
+    "c": "Church",
+    "d": "Casino",
+    "correct": "Bar"
+  },
+  "93": {
+    "idquestion": 93,
+    "question": "Which movie is about a jazz drummer and his abusive music instructor in pursuit of perfection?",
+    "a": "'La La Land'",
+    "b": "'Whiplash'",
+    "c": "'Birdman'",
+    "d": "'Black Swan'",
+    "correct": "'Whiplash'"
+  },
+  "94": {
+    "idquestion": 94,
+    "question": "In 'Harry Potter and the Sorcerer's Stone,' what is the name of the three-headed dog guarding the Philosopher's Stone?",
+    "a": "Fang",
+    "b": "Fluffy",
+    "c": "Norbert",
+    "d": "Aragog",
+    "correct": "Fluffy"
+  },
+  "95": {
+    "idquestion": 95,
+    "question": "Which film is a science fiction noir set in a futuristic city and follows a detective who falls in love with a replicant?",
+    "a": "'Blade Runner'",
+    "b": "'The Terminator'",
+    "c": "'A Clockwork Orange'",
+    "d": "'The Matrix'",
+    "correct": "'Blade Runner'"
+  },
+  "96": {
+    "idquestion": 96,
+    "question": "In the movie 'The Revenant,' which actor won an Academy Award for Best Actor for his role as Hugh Glass?",
+    "a": "Brad Pitt",
+    "b": "Leonardo DiCaprio",
+    "c": "Joaquin Phoenix",
+    "d": "Matthew McConaughey",
+    "correct": "Leonardo DiCaprio"
+  },
+  "97": {
+    "idquestion": 97,
+    "question": "Which film tells the story of a man who ages in reverse, born as an elderly man and getting younger as time goes on?",
+    "a": "'The Curious Case of Benjamin Button'",
+    "b": "'Forrest Gump'",
+    "c": "'Big Fish'",
+    "d": "'The Secret Life of Walter Mitty'",
+    "correct": "'The Curious Case of Benjamin Button'"
+  },
+  "98": {
+    "idquestion": 98,
+    "question": "In the movie 'Braveheart,' who plays the role of William Wallace, a Scottish warrior who leads a rebellion against English tyranny?",
+    "a": "Mel Gibson",
+    "b": "Liam Neeson",
+    "c": "Sean Connery",
+    "d": "Gerard Butler",
+    "correct": "Mel Gibson"
+  },    
+  "99": {
+    "idquestion": 154,
+    "question": "In 'Drácula,' which character is the solicitor sent to Count Dracula's castle to finalize the property purchase in England?",
+    "a": "Jonathan Harker",
+    "b": "Arthur Holmwood",
+    "c": "Quincy Morris",
+    "d": "Dr. John Seward",
+    "correct": "Jonathan Harker"
+  },
+  "100": {
+    "idquestion": 100,
+    "question": "In the movie 'The Departed,' what organization does the character Frank Costello lead?",
+    "a": "The Irish Mob",
+    "b": "The Italian Mafia",
+    "c": "The Yakuza",
+    "d": "The Russian Bratva",
+    "correct": "The Irish Mob"
+  },
+  "101": {
+    "idquestion": 101,
+    "question": "In the movie 'Drácula,' who portrays the infamous vampire Count Dracula?",
+    "a": "Gary Oldman",
+    "b": "Anthony Hopkins",
+    "c": "Keanu Reeves",
+    "d": "Winona Ryder",
+    "correct": "Gary Oldman"
+  },
+  "102": {
+    "idquestion": 102,
+    "question": "In 'Harry Potter and the Goblet of Fire,' which wizarding school participates in the Triwizard Tournament alongside Hogwarts?",
+    "a": "Beauxbatons Academy of Magic",
+    "b": "Durmstrang Institute",
+    "c": "Ilvermorny School of Witchcraft and Wizardry",
+    "d": "Castelobruxo",
+    "correct": "Beauxbatons Academy of Magic"
+  },
+  "103": {
+    "idquestion": 103,
+    "question": "Which character in 'Drácula' is a vampire hunter and the archenemy of Count Dracula?",
+    "a": "Renfield",
+    "b": "Professor Abraham Van Helsing",
+    "c": "Lord Arthur Holmwood",
+    "d": "Dr. John Seward",
+    "correct": "Professor Abraham Van Helsing"
+  },
+  "104": {
+    "idquestion": 104,
+    "question": "In 'Harry Potter and the Chamber of Secrets,' what creature petrifies its victims and is later revealed to be the monster of Slytherin's heir?",
+    "a": "Basilisk",
+    "b": "Hippogriff",
+    "c": "Acromantula",
+    "d": "Dementor",
+    "correct": "Basilisk"
+  },
+  "105": {
+    "idquestion": 105,
+    "question": "In the film, what does Count Dracula transform into during the ship voyage to England?",
+    "a": "Wolf",
+    "b": "Bat",
+    "c": "Mist",
+    "d": "Rat",
+    "correct": "Wolf"
+  },
+  "106": {
+    "idquestion": 106,
+    "question": "Which character in 'Drácula' is a mental patient who serves as one of Dracula's minions?",
+    "a": "Quincy Morris",
+    "b": "Renfield",
+    "c": "Lord Arthur Holmwood",
+    "d": "Dr. John Seward",
+    "correct": "Renfield"
+  },
+  "107": {
+    "idquestion": 107,
+    "question": "Which spell does Harry use to summon his broomstick during the first Quidditch match in 'Harry Potter and the Sorcerer's Stone'?",
+    "a": "Expelliarmus",
+    "b": "Accio",
+    "c": "Lumos",
+    "d": "Wingardium Leviosa",
+    "correct": "Accio"
+  },
+  "108": {
+    "idquestion": 108,
+    "question": "What is the name of the ship that carries Count Dracula from Transylvania to England?",
+    "a": "Demeter",
+    "b": "Victory",
+    "c": "Bellerophon",
+    "d": "Carpathia",
+    "correct": "Demeter"
+  },
+  "109": {
+  "idquestion": 109,
+  "question": "What is the name of the mental institution where Renfield is confined?",
+  "a": "Bethlem Royal Hospital",
+  "b": "Transylvania Sanitarium",
+  "c": "Dr. Seward's Asylum",
+  "d": "Arkham Asylum",
+  "correct": "Dr. Seward's Asylum"
+  },  
+  "110": {
+    "idquestion": 110,
+    "question": "In the movie, who kills Lucy Westenra after she becomes a vampire?",
+    "a": "Count Dracula",
+    "b": "Arthur Holmwood",
+    "c": "Quincy Morris",
+    "d": "Professor Van Helsing",
+    "correct": "Arthur Holmwood"
+  },
+  "clasification": {
+    "category1": {
+        "title": "Fleeting Filmmaker",
+        "description": "If you scored 0 to 4 points, you seem more lost than the protagonist of a horror movie in a haunted house. But don't worry, we all start somewhere. Keep watching more movies, and soon you'll be a respectable cinephile!"
+    },
+    "category2": {
+      "title": "Background Extra",
+      "description": "If you got 5 to 9 points, you're like the extra who briefly appears in a scene and goes unnoticed. Although you're not a movie star, you have the potential to shine if you continue immersing yourself in the cinematic world."
+    },
+    "category3": {
+      "title": "Armchair Critic",
+      "description": "If you scored 10 to 14 points, you're like a film critic in the armchair at the back. You have some solid opinions about movies, but you haven't earned a VIP pass on the red carpet yet."
+    },
+    "category4": {
+      "title": "Spoiler Master",
+      "description": "If you achieved 15 to 19 points, you're a spoiler master, capable of predicting plot twists before they happen. Your knowledge of movies is so extensive that you could direct a three-hour film without the need for editing."
+    },
+    "category5": {
+      "title":"Editing Genius",
+      "description": "If you got 20 points, you're an editing genius of the silver screen! You're like the Quentin Tarantino of the quiz, able to blend movie genres and references into a unique masterpiece. Your knowledge of movies is so impressive that the closing credits aren't enough to acknowledge it"
+    }
   }
 }
 
